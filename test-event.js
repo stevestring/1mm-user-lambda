@@ -1,5 +1,8 @@
 module.exports = {
-    "key1": "value1",
-    "key2": "value2",
-    "key3": "value3"
+    "user1":"NeurotypicalPanda",
+    "user":"spy400qqq300",
+    "key2": "FirangiPan",
+    "key3": "aaasssaa",
+    "user1": "Forget-Hype"
+    
   };

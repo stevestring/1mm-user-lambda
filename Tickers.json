@@ -1,0 +1,902 @@
+{
+    "CCL": {
+      "Name": "Carnival Corp"
+    },
+    "M": {
+      "Name": "Macy's Inc"
+    },
+    "GE": {
+      "Name": "General Electric Company"
+    },
+    "LK": {
+      "Name": "Luckin Coffee Inc ADR"
+    },
+    "OXY": {
+      "Name": "Occidental Petroleum Corp"
+    },
+    "AAL": {
+      "Name": "American Airlines Gp"
+    },
+    "F": {
+      "Name": "Ford Motor Company"
+    },
+    "AMD": {
+      "Name": "Adv Micro Devices"
+    },
+    "MRO": {
+      "Name": "Marathon Oil Corp"
+    },
+    "BAC": {
+      "Name": "Bank of America Corp"
+    },
+    "T": {
+      "Name": "AT&T Inc"
+    },
+    "APA": {
+      "Name": "Apache Corp"
+    },
+    "DAL": {
+      "Name": "Delta Air Lines Inc"
+    },
+    "XOM": {
+      "Name": "Exxon Mobil Corp"
+    },
+    "ET": {
+      "Name": "Energy Transfer LP"
+    },
+    "MSFT": {
+      "Name": "Microsoft Corp"
+    },
+    "UBER": {
+      "Name": "Uber Technologies Inc"
+    },
+    "NRZ": {
+      "Name": "New Residential Investment Corp"
+    },
+    "NLY": {
+      "Name": "Annaly Capital Management Inc"
+    },
+    "PBR": {
+      "Name": "Petroleo Brasileiro S.A. Petrobras"
+    },
+    "MGM": {
+      "Name": "MGM Resorts International"
+    },
+    "BA": {
+      "Name": "Boeing Company"
+    },
+    "ITUB": {
+      "Name": "Itau Unibanco Banco Holding S.A."
+    },
+    "HAL": {
+      "Name": "Halliburton Company"
+    },
+    "WFC": {
+      "Name": "Wells Fargo & Company"
+    },
+    "AAPL": {
+      "Name": "Apple Inc"
+    },
+    "PFE": {
+      "Name": "Pfizer Inc"
+    },
+    "VALE": {
+      "Name": "Vale S.A."
+    },
+    "MU": {
+      "Name": "Micron Technology"
+    },
+    "UAL": {
+      "Name": "United Continental Holdings"
+    },
+    "ABEV": {
+      "Name": "Ambev S.A."
+    },
+    "SRNE": {
+      "Name": "Sorrento Therpt"
+    },
+    "WMB": {
+      "Name": "Williams Companies"
+    },
+    "FCX": {
+      "Name": "Freeport-Mcmoran Inc"
+    },
+    "KMI": {
+      "Name": "Kinder Morgan"
+    },
+    "RCL": {
+      "Name": "Royal Caribbean Cruises Ltd"
+    },
+    "AMRN": {
+      "Name": "Amarin Corp Ads"
+    },
+    "FB": {
+      "Name": "Facebook Inc"
+    },
+    "C": {
+      "Name": "Citigroup Inc"
+    },
+    "WPX": {
+      "Name": "Wpx Energy Inc"
+    },
+    "TWTR": {
+      "Name": "Twitter Inc"
+    },
+    "SLB": {
+      "Name": "Schlumberger N.V."
+    },
+    "TWO": {
+      "Name": "Two Harbors Investments Corp"
+    },
+    "NCLH": {
+      "Name": "Norwegian Cruise Ord"
+    },
+    "INTC": {
+      "Name": "Intel Corp"
+    },
+    "TSLA": {
+      "Name": "Tesla Inc"
+    },
+    "CSCO": {
+      "Name": "Cisco Systems Inc"
+    },
+    "JPM": {
+      "Name": "JP Morgan Chase & Company"
+    },
+    "SIRI": {
+      "Name": "Sirius XM Holdings"
+    },
+    "AUY": {
+      "Name": "Yamana Gold"
+    },
+    "NIO": {
+      "Name": "Nio Inc"
+    },
+    "GILD": {
+      "Name": "Gilead Sciences Inc"
+    },
+    "CMCSA": {
+      "Name": "Comcast Corp A"
+    },
+    "RTX": {
+      "Name": "Raytheon Tecnologies Corp."
+    },
+    "AGNC": {
+      "Name": "American Capital Age"
+    },
+    "SQ": {
+      "Name": "Square"
+    },
+    "BP": {
+      "Name": "BP Plc"
+    },
+    "CNP": {
+      "Name": "Centerpoint Energy Inc"
+    },
+    "CVE": {
+      "Name": "Cenovus Energy Inc"
+    },
+    "BBD": {
+      "Name": "Banco Bradesco S.A."
+    },
+    "KGC": {
+      "Name": "Kinross Gold Corp"
+    },
+    "DVN": {
+      "Name": "Devon Energy Corp"
+    },
+    "ZNGA": {
+      "Name": "Zynga Inc Cl A"
+    },
+    "VZ": {
+      "Name": "Verizon Communications Inc"
+    },
+    "NOK": {
+      "Name": "Nokia Corp"
+    },
+    "MS": {
+      "Name": "Morgan Stanley"
+    },
+    "MRNA": {
+      "Name": "Moderna Inc"
+    },
+    "NVDA": {
+      "Name": "Nvidia Corp"
+    },
+    "SNAP": {
+      "Name": "Snap Inc"
+    },
+    "TEVA": {
+      "Name": "Teva Pharmaceutical Industries Ltd"
+    },
+    "CZR": {
+      "Name": "Caesars Entertainment Corp"
+    },
+    "X": {
+      "Name": "United States Steel Corp"
+    },
+    "BBBY": {
+      "Name": "Bed Bath & Beyond"
+    },
+    "INFY": {
+      "Name": "Infosys Ltd"
+    },
+    "GPS": {
+      "Name": "Gap Inc"
+    },
+    "CVX": {
+      "Name": "Chevron Corp"
+    },
+    "DIS": {
+      "Name": "Walt Disney Company"
+    },
+    "RF": {
+      "Name": "Regions Financial Corp"
+    },
+    "SBUX": {
+      "Name": "Starbucks Corp"
+    },
+    "BMY": {
+      "Name": "Bristol-Myers Squibb Company"
+    },
+    "KR": {
+      "Name": "Kroger Company"
+    },
+    "GOLD": {
+      "Name": "Barrick Gold Corp"
+    },
+    "KO": {
+      "Name": "Coca-Cola Company"
+    },
+    "MPC": {
+      "Name": "Marathon Petroleum Corp"
+    },
+    "PE": {
+      "Name": "Parsley Energy"
+    },
+    "GM": {
+      "Name": "General Motors Company"
+    },
+    "HBAN": {
+      "Name": "Huntington Bcshs"
+    },
+    "EOG": {
+      "Name": "Eog Resources"
+    },
+    "CTL": {
+      "Name": "Centurylink"
+    },
+    "FG": {
+      "Name": "Fgl Holdings"
+    },
+    "ORCL": {
+      "Name": "Oracle Corp"
+    },
+    "TLRY": {
+      "Name": "Tilray Inc"
+    },
+    "RRC": {
+      "Name": "Range Resources Corp"
+    },
+    "HTZ": {
+      "Name": "Hertz Global Holdings Inc"
+    },
+    "VIAC": {
+      "Name": "Viacomcbs Inc. Cl B"
+    },
+    "ZM": {
+      "Name": "Zoom Video Communications Cl A"
+    },
+    "JD": {
+      "Name": "Jd.com Inc Ads"
+    },
+    "TJX": {
+      "Name": "TJX Companies"
+    },
+    "LADR": {
+      "Name": "Ladder Capital Corp"
+    },
+    "SYF": {
+      "Name": "Synchrony Financial"
+    },
+    "HPQ": {
+      "Name": "Hp Inc"
+    },
+    "V": {
+      "Name": "Visa Inc"
+    },
+    "KEY": {
+      "Name": "Keycorp"
+    },
+    "HST": {
+      "Name": "Host Marriott Financial Trust"
+    },
+    "LB": {
+      "Name": "L Brands Inc"
+    },
+    "COP": {
+      "Name": "Conocophillips"
+    },
+    "PCG": {
+      "Name": "Pacific Gas & Electric Company"
+    },
+    "APT": {
+      "Name": "Alpha Pro Tech"
+    },
+    "PBR.A": {
+      "Name": "Petroleo Brasileiro Sa Petrobr ADR"
+    },
+    "MTG": {
+      "Name": "Mgic Investment Corp"
+    },
+    "INO": {
+      "Name": "Inovio Pharma"
+    },
+    "AEG": {
+      "Name": "Aegon N.V."
+    },
+    "BSX": {
+      "Name": "Boston Scientific Corp"
+    },
+    "CNQ": {
+      "Name": "Canadian Natural Resources"
+    },
+    "EBAY": {
+      "Name": "Ebay Inc"
+    },
+    "LYV": {
+      "Name": "Live Nation Entertainment"
+    },
+    "CLF": {
+      "Name": "Cleveland-Cliffs Inc"
+    },
+    "GSX": {
+      "Name": "Gsx Techedu Inc ADR"
+    },
+    "MAR": {
+      "Name": "Marriot Int Cl A"
+    },
+    "RWT": {
+      "Name": "Redwood Trust"
+    },
+    "HBI": {
+      "Name": "Hanesbrands Inc"
+    },
+    "MIC": {
+      "Name": "Macquarie Infrastructure Company Trust"
+    },
+    "NBL": {
+      "Name": "Noble Energy Inc"
+    },
+    "MO": {
+      "Name": "Altria Group"
+    },
+    "VER": {
+      "Name": "Vereit Inc"
+    },
+    "JNJ": {
+      "Name": "Johnson & Johnson"
+    },
+    "SU": {
+      "Name": "Suncor Energy Inc"
+    },
+    "AXP": {
+      "Name": "American Express Company"
+    },
+    "IBN": {
+      "Name": "Icici Bank Ltd"
+    },
+    "PENN": {
+      "Name": "Penn Natl Gaming Inc"
+    },
+    "LUV": {
+      "Name": "Southwest Airlines Company"
+    },
+    "IMMU": {
+      "Name": "Immunomedics Inc"
+    },
+    "KSS": {
+      "Name": "Kohl's Corp"
+    },
+    "FANG": {
+      "Name": "Diamondback Energy"
+    },
+    "OKE": {
+      "Name": "Oneok Inc"
+    },
+    "MRK": {
+      "Name": "Merck & Company"
+    },
+    "AIG": {
+      "Name": "American International Group"
+    },
+    "PLUG": {
+      "Name": "Plug Power Inc"
+    },
+    "WMT": {
+      "Name": "Wal-Mart Stores"
+    },
+    "RDS.A": {
+      "Name": "Royal Dutch Shell ADR Cl A"
+    },
+    "BRX": {
+      "Name": "Brixmor Property Group Inc"
+    },
+    "AMAT": {
+      "Name": "Applied Materials"
+    },
+    "BABA": {
+      "Name": "Alibaba Group Holding"
+    },
+    "MTDR": {
+      "Name": "Matador Resources Company"
+    },
+    "ING": {
+      "Name": "ING Groep N.V. ADR"
+    },
+    "MUR": {
+      "Name": "Murphy Oil Corp"
+    },
+    "OVV": {
+      "Name": "Ovintiv Inc."
+    },
+    "ATHX": {
+      "Name": "Athersys Inc"
+    },
+    "KHC": {
+      "Name": "Kraft Heinz Company"
+    },
+    "NVAX": {
+      "Name": "Novavax Inc"
+    },
+    "STWD": {
+      "Name": "Starwood Property Trust"
+    },
+    "ABT": {
+      "Name": "Abbott Laboratories"
+    },
+    "SCHW": {
+      "Name": "The Charles Schwab Corp"
+    },
+    "COG": {
+      "Name": "Cabot Oil & Gas Corp"
+    },
+    "EPD": {
+      "Name": "Enterprise Products Partners LP"
+    },
+    "EQT": {
+      "Name": "Eqt Corp"
+    },
+    "TFC": {
+      "Name": "Truist Financial Corp."
+    },
+    "CLR": {
+      "Name": "Continental Resources"
+    },
+    "LVS": {
+      "Name": "Las Vegas Sands"
+    },
+    "CVS": {
+      "Name": "CVS Corp"
+    },
+    "IQ": {
+      "Name": "Iqiyi Inc ADR"
+    },
+    "EQNR": {
+      "Name": "Equinor ASA"
+    },
+    "QCOM": {
+      "Name": "Qualcomm Inc"
+    },
+    "WMGI": {
+      "Name": "Wright Med Grp NV"
+    },
+    "GFI": {
+      "Name": "Gold Fields Ltd"
+    },
+    "NKE": {
+      "Name": "Nike Inc"
+    },
+    "PK": {
+      "Name": "Park Hotels & Resorts Inc"
+    },
+    "WES": {
+      "Name": "Western Midstream Partners LP"
+    },
+    "KIM": {
+      "Name": "Kimco Realty Corp"
+    },
+    "TMUS": {
+      "Name": "T-Mobile US"
+    },
+    "ON": {
+      "Name": "On Semiconductor"
+    },
+    "AMCR": {
+      "Name": "Amcor Plc"
+    },
+    "JBLU": {
+      "Name": "Jetblue Airways Cp"
+    },
+    "FIT": {
+      "Name": "Fitbit Inc"
+    },
+    "MYL": {
+      "Name": "Mylan NV Ord Shs"
+    },
+    "CAR": {
+      "Name": "Avis Budget Group"
+    },
+    "ABBV": {
+      "Name": "Abbvie Inc"
+    },
+    "DOW": {
+      "Name": "Dow Inc"
+    },
+    "WYNN": {
+      "Name": "Wynn Resorts Ltd"
+    },
+    "MRVL": {
+      "Name": "Marvell Tech Group"
+    },
+    "AA": {
+      "Name": "Alcoa Corp"
+    },
+    "FITB": {
+      "Name": "Fifth Third Bncp"
+    },
+    "AM": {
+      "Name": "Antero Midstream Corp"
+    },
+    "VIPS": {
+      "Name": "Vipshop Holdings Ltd"
+    },
+    "PAA": {
+      "Name": "Plains All American Pipeline LP"
+    },
+    "UAA": {
+      "Name": "Under Armour"
+    },
+    "NEM": {
+      "Name": "Newmont Mining Corp"
+    },
+    "MDLZ": {
+      "Name": "Mondelez Intl Inc"
+    },
+    "PG": {
+      "Name": "Procter & Gamble Company"
+    },
+    "PTON": {
+      "Name": "Peloton Interactive Inc"
+    },
+    "BKR": {
+      "Name": "Baker Hughes A Ge Co. Cl A"
+    },
+    "PYPL": {
+      "Name": "Paypal Holdings"
+    },
+    "SPCE": {
+      "Name": "Virgin Galactic Holdings Inc"
+    },
+    "PPL": {
+      "Name": "PPL Corp"
+    },
+    "SABR": {
+      "Name": "Sabre Corp"
+    },
+    "PDD": {
+      "Name": "Pinduoduo Inc ADR"
+    },
+    "AMC": {
+      "Name": "Amc Entertainment Holdings Inc"
+    },
+    "CY": {
+      "Name": "Cypress Semiconductor"
+    },
+    "LYFT": {
+      "Name": "Lyft Inc Cl A"
+    },
+    "QSR": {
+      "Name": "Restaurant Brands International"
+    },
+    "SPY": {
+      "Name": "SPDR S&P 500 ETF"
+    },
+    "EEM": {
+      "Name": "iShares MSCI Emerging Markets ETF"
+    },
+    "XLF": {
+      "Name": "Financial Select Sector SPDR Fund"
+    },
+    "GDX": {
+      "Name": "VanEck Vectors Gold Miners ETF"
+    },
+    "USO": {
+      "Name": "United States Oil Fund"
+    },
+    "VXX": {
+      "Name": "iPath Series B S&P 500 VIX Short-Term Futures ETN"
+    },
+    "QQQ": {
+      "Name": "Invesco QQQ"
+    },
+    "SQQQ": {
+      "Name": "ProShares UltraPro Short QQQ"
+    },
+    "TQQQ": {
+      "Name": "ProShares UltraPro QQQ"
+    },
+    "EFA": {
+      "Name": "iShares MSCI EAFE ETF"
+    },
+    "HYG": {
+      "Name": "iShares iBoxx $ High Yield Corporate Bond ETF"
+    },
+    "FXI": {
+      "Name": "iShares China Large-Cap ETF"
+    },
+    "AMLP": {
+      "Name": "Alerian MLP ETF"
+    },
+    "EWZ": {
+      "Name": "iShares MSCI Brazil ETF"
+    },
+    "IWM": {
+      "Name": "iShares Russell 2000 ETF"
+    },
+    "XLE": {
+      "Name": "Energy Select Sector SPDR Fund"
+    },
+    "IAU": {
+      "Name": "iShares Gold Trust"
+    },
+    "SPXS": {
+      "Name": "Direxion Daily S&P 500 Bear 3X Shares"
+    },
+    "IEMG": {
+      "Name": "iShares Core MSCI Emerging Markets ETF"
+    },
+    "VEA": {
+      "Name": "Vanguard FTSE Developed Markets ETF"
+    },
+    "SLV": {
+      "Name": "iShares Silver Trust"
+    },
+    "VWO": {
+      "Name": "Vanguard FTSE Emerging Markets ETF"
+    },
+    "UVXY": {
+      "Name": "ProShares Ultra VIX Short-Term Futures"
+    },
+    "GDXJ": {
+      "Name": "VanEck Vectors Junior Gold Miners ETF"
+    },
+    "XLU": {
+      "Name": "Utilities Select Sector SPDR Fund"
+    },
+    "UWTI": {
+      "Name": "VelocityShares 3x Long Crude ETN"
+    },
+    "NUGT": {
+      "Name": "Direxion Daily Gold Miners Bull 3X Shares"
+    },
+    "XLK": {
+      "Name": "Technology Select Sector SPDR Fund"
+    },
+    "DUST": {
+      "Name": "Direxion Daily Gold Miners Bear 3X Shares"
+    },
+    "SPXU": {
+      "Name": "ProShares UltraPro Short S&P 500"
+    },
+    "XLI": {
+      "Name": "Industrial Select Sector SPDR Fund"
+    },
+    "UCO": {
+      "Name": "ProShares Ultra Bloomberg Crude Oil"
+    },
+    "LQD": {
+      "Name": "iShares iBoxx $ Investment Grade Corporate Bond ETF"
+    },
+    "XLP": {
+      "Name": "Consumer Staples Select Sector SPDR Fund"
+    },
+    "SH": {
+      "Name": "ProShares Short S&P 500"
+    },
+    "JNUG": {
+      "Name": "Direxion Daily Junior Gold Miners Index Bull 3x Shares"
+    },
+    "IEFA": {
+      "Name": "iShares Core MSCI EAFE ETF"
+    },
+    "DWT": {
+      "Name": "VelocityShares 3x Inverse Crude Oil ETN"
+    },
+    "SPXL": {
+      "Name": "Direxion Daily S&P 500 Bull 3X Shares"
+    },
+    "SDS": {
+      "Name": "ProShares UltraShort S&P 500"
+    },
+    "TLT": {
+      "Name": "iShares 20+ Year Treasury Bond ETF"
+    },
+    "GLD": {
+      "Name": "SPDR Gold Trust"
+    },
+    "XLV": {
+      "Name": "Health Care Select Sector SPDR Fund"
+    },
+    "OIH": {
+      "Name": "VanEck Vectors Oil Services ETF"
+    },
+    "JDST": {
+      "Name": "Direxion Daily Junior Gold Miners Index Bear 3X Shares"
+    },
+    "EWJ": {
+      "Name": "iShares MSCI Japan ETF"
+    },
+    "XOP": {
+      "Name": "SPDR S&P Oil & Gas Exploration & Production ETF"
+    },
+    "TVIX": {
+      "Name": "VelocityShares Daily 2x VIX Short Term ETN"
+    },
+    "XLB": {
+      "Name": "Materials Select Sector SPDR ETF"
+    },
+    "BKLN": {
+      "Name": "Invesco Senior Loan ETF"
+    },
+    "RSX": {
+      "Name": "VanEck Vectors Russia ETF"
+    },
+    "UPRO": {
+      "Name": "ProShares UltraPro S&P 500"
+    },
+    "JNK": {
+      "Name": "SPDR Barclays High Yield Bond ETF"
+    },
+    "IYR": {
+      "Name": "iShares U.S. Real Estate ETF"
+    },
+    "EWH": {
+      "Name": "iShares MSCI Hong Kong ETF"
+    },
+    "XLRE": {
+      "Name": "Real Estate Select Sector SPDR Fund"
+    },
+    "GOVT": {
+      "Name": "iShares U.S. Treasury Bond ETF"
+    },
+    "ASHR": {
+      "Name": "Xtrackers Harvest CSI 300 China A-Shares Fund"
+    },
+    "KRE": {
+      "Name": "SPDR S&P Regional Banking ETF"
+    },
+    "AGG": {
+      "Name": "iShares Core U.S. Aggregate Bond ETF"
+    },
+    "IVV": {
+      "Name": "iShares Core S&P 500 ETF"
+    },
+    "SCHF": {
+      "Name": "Schwab International Equity ETF"
+    },
+    "VNQ": {
+      "Name": "Vanguard Real Estate Index Fund"
+    },
+    "PFF": {
+      "Name": "iShares Preferred and Income Securities ETF"
+    },
+    "QID": {
+      "Name": "ProShares UltraShort QQQ"
+    },
+    "VOO": {
+      "Name": "Vanguard S&P 500 ETF"
+    },
+    "PSQ": {
+      "Name": "ProShares Short QQQ"
+    },
+    "XBI": {
+      "Name": "SPDR S&P Biotech ETF"
+    },
+    "XLY": {
+      "Name": "Consumer Discretionary Select Sector SPDR Fund"
+    },
+    "VTI": {
+      "Name": "Vanguard Total Stock Market ETF"
+    },
+    "INDA": {
+      "Name": "iShares MSCI India ETF"
+    },
+    "EWT": {
+      "Name": "iShares MSCI Taiwan ETF"
+    },
+    "USMV": {
+      "Name": "iShares Edge MSCI Min Vol USA ETF"
+    },
+    "TNA": {
+      "Name": "Direxion Daily Small Cap Bull 3X Shares"
+    },
+    "VEU": {
+      "Name": "Vanguard FTSE All-World ex-US ETF"
+    },
+    "VIXY": {
+      "Name": "ProShares VIX Short-Term Futures ETF"
+    },
+    "IJR": {
+      "Name": "iShares Core S&P Small-Cap ETF"
+    },
+    "BND": {
+      "Name": "Vanguard Total Bond Market ETF"
+    },
+    "SPLV": {
+      "Name": "Invesco S&P 500® Low Volatility ETF"
+    },
+    "DIA": {
+      "Name": "SPDR Dow Jones Industrial Average ETF"
+    },
+    "IEF": {
+      "Name": "iShares 7-10 Year Treasury Bond ETF"
+    },
+    "EZU": {
+      "Name": "iShares MSCI EMU ETF"
+    },
+    "BRZU": {
+      "Name": "Direxion Daily Brazil Bull 3X Shares"
+    },
+    "SOXS": {
+      "Name": "Direxion Daily Semiconductor Bear 3x Shares"
+    },
+    "VGK": {
+      "Name": "Vanguard FTSE Europe ETF"
+    },
+    "XRT": {
+      "Name": "SPDR S&P Retail ETF"
+    },
+    "SHY": {
+      "Name": "iShares 1-3 Year Treasury Bond ETF"
+    },
+    "EWY": {
+      "Name": "iShares MSCI South Korea ETF"
+    },
+    "SVXY": {
+      "Name": "ProShares Short VIX Short-Term Futures"
+    },
+    "MCHI": {
+      "Name": "iShares MSCI China ETF"
+    },
+    "XLC": {
+      "Name": "Communication Services Select Sector SPDR Fund"
+    },
+    "SDOW": {
+      "Name": "ProShares UltraPro Short Dow30"
+    },
+    "SMH": {
+      "Name": "VanEck Vectors Semiconductor ETF"
+    },
+    "SJNK": {
+      "Name": "SPDR Barclays Capital Short Term High Yield Bond ETF"
+    },
+    "PGX": {
+      "Name": "Invesco Preferred ETF"
+    },
+    "EMB": {
+      "Name": "iShares J.P. Morgan USD Emerging Markets Bond ETF"
+    },
+    "EWG": {
+      "Name": "iShares MSCI Germany ETF"
+    },
+    "ACWI": {
+      "Name": "iShares MSCI ACWI ETF"
+    },
+    "SPTS": {
+      "Name": "SPDR Portfolio Short Term Treasury ETF"
+    },
+    "DRIP": {
+      "Name": "Direxion Daily S&P Oil & Gas Exploration & Production Bear 3x Shares"
+    }
+  }
