@@ -277,12 +277,10 @@ class Post {
           //console.log(priceArray[i].date);
           arrayDate = new Date(parseInt(priceArray[i].date)*1000);
           arrayDate.setHours(16,0,0);
-          //arrayDate.setUTCSeconds(priceArray[i].date);
-          console.log(date +':'+ arrayDate);
+          //console.log(date +':'+ arrayDate);
           if (date <= arrayDate && 
               priceArray[i].adjclose != null) //Dividend entry - keep moving
-          {
-              //console.log(arrayDate.toDateString() +':'+ priceArray[i].adjclose);
+          {              
               return {date: arrayDate, price: priceArray[i].adjclose};
           }
       }
