@@ -8,6 +8,8 @@ const secrets = require('./secrets.json');
 module.exports.handler = async (event, context, callback) => {
         let response;
         let user; //userid parameter from querystring or event
+
+        var start = new Date();
        
         if (event.user && event.user!=="") {
             user =  event.user;
@@ -27,7 +29,13 @@ module.exports.handler = async (event, context, callback) => {
           },
           body: JSON.stringify(body)                   
           };
+
+          var end = new Date() - start;
+          console.info('Execution time: %dms', end);
+
           context.succeed(response);
+
+
 
 };
 
@@ -57,6 +65,8 @@ async function scrapeSubreddit(userName ) {
   const userSubmissions= await redditUser.getSubmissions();
 
   let data = [];
+  let dataWithTrade = [];
+  let tradeJsons = [];
   let trades = [];
   let firstPost = new Date();
 
@@ -90,12 +100,15 @@ async function scrapeSubreddit(userName ) {
       if (data[i].hasTrade)
       {
           //console.log (await data[i].tradeJSON());  
-          trades.push(await data[i].tradeJSON());
+          //trades.push( await data[i].tradeJSON());
+          dataWithTrade.push (data[i]);
       }
   }
   
-  
-  retVal.trades = await trades;
+  const listOfPromises = dataWithTrade.map(GetTradeJSON)  
+  retVal.trades = await Promise.all(listOfPromises);
+
+//  retVal.trades = trades;
   retVal.user = userName;
   retVal.tradeCount = trades.length //How many subreddit posts
   retVal.postCount = data.length+1;//How many actionable trades
@@ -131,6 +144,7 @@ async function scrapeSubreddit(userName ) {
   retVal.meanPerformance.push ({days:30, mean: avg[3], trades: numTrades[3]});
 
 
+
   return retVal;
 
   //Test without Reddit API
@@ -140,6 +154,39 @@ async function scrapeSubreddit(userName ) {
 
       // return await p.tradeJSON();
 };
+
+
+async function GetTradeJSON(post)
+{
+
+    if (post.hasTrade)
+    {        
+      
+        try{
+          let Retval = {};
+          Retval.ticker = post.tradeTicker;
+          Retval.created= post.created;
+          Retval.title = post.title;
+          Retval.longShort = post.longShort;          
+          Retval.performance = await post.performance();
+          Retval.openPrice = Retval.performance[0].tradePrice;
+          Retval.commentId = post.id;
+
+          return Retval;
+        }
+        catch (err)
+        {
+          console.log(err); 
+        }
+
+    }
+    else
+    {
+        return null;
+    }
+    
+}
+
 
 class Post {
     
