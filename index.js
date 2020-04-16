@@ -110,7 +110,7 @@ async function scrapeSubreddit(userName ) {
 
 //  retVal.trades = trades;
   retVal.user = userName;
-  retVal.tradeCount = trades.length //How many subreddit posts
+  retVal.tradeCount = retVal.trades.length //How many subreddit posts
   retVal.postCount = data.length+1;//How many actionable trades
   retVal.firstPost = firstPost;
 
